@@ -1,1 +1,1 @@
-# LogisticRegression_CredirCard
+# LogisticRegression_CreditCard
